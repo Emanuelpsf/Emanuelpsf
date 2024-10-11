@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Emanuelpsf
-- 👀 I’m interested in data science 
+- I’m interested in data science 
 - 🌱 I’m currently learning python and sql
-- 💞️ Family in first!
-- Married, father
+- ❤️💍 Family in first!
+- Married, girl's father
   USA!
 <!---
 Emanuelpsf/Emanuelpsf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
